@@ -26,6 +26,49 @@ Can be integrated into existing solutions such as Amadeus APIs, or client servic
 
 ![Data points](public/images/data-points.png)
 
+[In detail]
+
+### Major impact - 60%
+1. Reduce, reuse and recycle
+2. Packaging of foods
+3. Plastic usage
+4. Eco-friendly products - food, packaging 
+5. Rainwater harvesting
+6. Local food sourcing
+7. Usage of eco-friendly toiletries
+8. Use of biogas
+9. Reusing(washing) food utensils
+10. Food waste management
+11. Carbon offsetting
+12. Organic food
+
+### Medium impact - 25%
+1. Buying products from pollution-free companies
+2. Not using endangered fish & sea foods
+3. Usage of electric products
+4. Community
+5. Area of greenery
+6. Automatic taps, flush
+7. LED bulbs
+
+### Low impact - 10%
+1. Gadgets inside hotel
+2. Giving eco-friendly products as gifts
+3. Instant(<2min waiting time) customer service
+4. Online booking
+5. Paperless check-in
+6. Innovative natural lighting
+7. Occupancy rate
+8. Educating customers
+9. Local culture
+
+### Innovative solutions - 5% (Any 1)
+1. Innovative cooling solutions
+2. Eco friendly
+3. Serving local foods
+4. Helping/supporting/donating to nature-related projects
+5. No smoking area
+
 ## Green IT
 1. **Svelte:** lightweight(4kb), easy to use, less time to code, modular
 2. **pnpm:** faster, consumes less disk space, 
