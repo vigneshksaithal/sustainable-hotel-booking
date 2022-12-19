@@ -22,9 +22,20 @@ A easy-to-understandable green score which combines over 30+ data points, uses M
 **Usage:**
 Can be integrated into existing solutions such as Amadeus APIs, or client services such as TripAdvisor, Trivago.
 
-**Data points:**
+## Data points
 
 ![Data points](public/images/data-points.png)
+
+## Green IT
+1. **Svelte:** lightweight(4kb), easy to use, less time to code, modular
+2. **pnpm:** faster, consumes less disk space, 
+3. **Astro:** Zero-JS framework(Initial load), fast builds, less time to code
+4. **Tailwind CSS:** Avoids cascading of CSS and HTML files, builds CSS for only the classes used
+5. **Javascript:** Consumes less energy, (15 times less than Python Lang, 5 times less than TypeScript).
+
+## Resources
+1. https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957
+2. https://buildingenergyscore.energy.gov/publications/energy_savings_hotels.pdf
 
 ## Slides
 
